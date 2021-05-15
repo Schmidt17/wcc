@@ -1,4 +1,4 @@
-# The Word Cloud Computer
+# The Word Cloud Console
 
 _wcc_ is an interpreter for the _Word Cloud_ language (wc), which relies on semantic instead of syntactic relationships.
 wcc is written in Python.
